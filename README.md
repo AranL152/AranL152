@@ -1,6 +1,4 @@
-# 👋 About Me
-
-Hi, I'm Aran Lum.
+# 👋 Hello, I'm Aran
 
 🎓 Computer Engineering student at the University of Toronto | AI and Engineering Business Minor
 

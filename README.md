@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at the University of Toronto | AI and Engineering Business Minor
 
-🔬 Currently an Undergraduate Research Assistant at UofT, developing computer vision techniques to analyze and optimize zinc coating processes in hot-dip galvanizing, with research aimed at eventual plant scale adoption at ArcelorMittal Dofasco (Canada's #1 producer of flat-carbon steel)
+🔬 Currently an Undergraduate Research Assistant at UofT, developing computer vision techniques to optimize zinc coating processes in hot-dip galvanizing, with research aimed at eventual plant scale adoption at ArcelorMittal Dofasco (Canada's #1 producer of flat-carbon steel)
 
 💻 Previously an AI Engineer Intern at Intact Financial Corporation and a Data Analyst Intern at CIBC
 

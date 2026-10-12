@@ -6,7 +6,7 @@
 
 💻 Previously an AI Engineer Intern at Intact Financial Corporation and a Data Analyst Intern at CIBC
 
-🚀 Passionate about **Computer Vision, Large Language Models (LLMs), Machine Learning, and AI Systems**
+🚀 Passionate about **Computer Vision, Large Language Models (LLMs), and Machine Learning**
 
 ## 🌐 Socials
 

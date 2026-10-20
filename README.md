@@ -10,7 +10,7 @@ Previously an AI Engineer Intern at Intact Financial Corporation and a Data Anal
 
 ## 💻 Website
 
->> https://aranlum.vercel.app/
+> https://aranlum.vercel.app/
 
 ## 🌐 Socials
 

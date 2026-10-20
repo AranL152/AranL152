@@ -4,9 +4,13 @@
 
 🔬 Currently an Undergraduate Research Assistant at UofT, developing computer vision techniques to optimize zinc coating processes in hot-dip galvanizing, with research aimed at eventual plant scale adoption at ArcelorMittal Dofasco (Canada's #1 producer of flat-carbon steel)
 
-💻 Previously an AI Engineer Intern at Intact Financial Corporation and a Data Analyst Intern at CIBC
+Previously an AI Engineer Intern at Intact Financial Corporation and a Data Analyst Intern at CIBC
 
 🚀 Passionate about **Computer Vision, Large Language Models (LLMs), and Machine Learning**
+
+## 💻 Website
+
+>> https://aranlum.vercel.app/
 
 ## 🌐 Socials
 
